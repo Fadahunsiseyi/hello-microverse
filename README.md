@@ -7,8 +7,8 @@
 
 ## Built With
 
-- Html
-- Css
+- HTML
+- CSS
 
 ## Live Demo (if available)
 
